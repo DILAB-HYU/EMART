@@ -152,14 +152,11 @@ python test_inference.py \
 **Output:**
 Results will be saved as CSV files in the specified output directory.
 
+
 ### Pretrained Checkpoints
 
-We provide pretrained model checkpoints for our best runs:
-
-| Dataset | Download |
-|---------|----------|
-| IEMOCAP | [checkpoint](https://drive.google.com/drive/folders/13c334N4hH4Dc26lspwYP3x3tAZBIq8w6?usp=drive_link) |
-| MELD | [checkpoint](https://drive.google.com/drive/folders/1MWQvHSvsJdnHDa-MFCCyu5zgg-Wn0sds?usp=drive_link) |
+We also provide our best-run checkpoints for quick reproduction.
+Download [IEMOCAP & MELD](https://drive.google.com/drive/folders/1hYJBqd4V7gPfrblvQK_z7xqOvhUMMMlU?usp=drive_link) checkpoints and place them under `finetune/` to run inference directly.
 
 
 ---
