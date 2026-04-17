@@ -152,6 +152,16 @@ python test_inference.py \
 **Output:**
 Results will be saved as CSV files in the specified output directory.
 
+### Pretrained Checkpoints
+
+We provide pretrained model checkpoints for our best runs:
+
+| Dataset | Download |
+|---------|----------|
+| IEMOCAP | [checkpoint](https://drive.google.com/drive/folders/13c334N4hH4Dc26lspwYP3x3tAZBIq8w6?usp=drive_link) |
+| MELD | [checkpoint](https://drive.google.com/drive/folders/1MWQvHSvsJdnHDa-MFCCyu5zgg-Wn0sds?usp=drive_link) |
+
+
 ---
 
 ## Project Structure
