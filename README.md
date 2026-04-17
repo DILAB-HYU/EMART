@@ -156,7 +156,7 @@ Results will be saved as CSV files in the specified output directory.
 ### Pretrained Checkpoints
 
 We also provide our best-run checkpoints for quick reproduction.
-Download [IEMOCAP & MELD](https://drive.google.com/drive/folders/1hYJBqd4V7gPfrblvQK_z7xqOvhUMMMlU?usp=drive_link) checkpoints and place them under `finetune/` to run inference directly.
+Download [IEMOCAP & MELD checkpoints](https://drive.google.com/drive/folders/1hYJBqd4V7gPfrblvQK_z7xqOvhUMMMlU?usp=drive_link) and place them under `finetune/` to run inference directly.
 
 
 ---
