@@ -1,0 +1,4 @@
+data_dir:
+  iemocap: ../dataset/IEMOCAP_full_release/
+  meld: ../dataset/MELD.Raw
+project_dir: ../
